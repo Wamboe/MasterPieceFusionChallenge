@@ -1,6 +1,8 @@
 # MasterPieceFusionChallenge
 This a simple project that helps record my favorite movies, and display the ones that have already been saved.
 
+![Screenshot](https://github.com/Wamboe/MasterPieceFusionChallenge/blob/version1/movie_collection_assignment.jpg)
+
 # How it works
 You can simply enter the favorite movies on the form on the left beginning with the title and then the main actor.
 You can only add one actor on this version. After, you can choose which genre it falls under and again, in this you can choose one genre in this version.
